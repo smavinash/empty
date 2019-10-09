@@ -2,4 +2,4 @@ In Unix systems the end of a line is represented with a line feed (LF). In windo
 
 If you want to turn this warning off, type this in the git command line
 
-git config core.autocrlf true
+---->>>  git config core.autocrlf true
